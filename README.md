@@ -9,7 +9,7 @@
  * Once code base is properly functioning with our improvements we will have to deploy the application to a live URL and Github URL with a repository that satisfies our repository criterias
 
 ## Screenshot
-* ![Screenshot of application](./assets/images/Screenshot.pnj.png)
+![Screenshot of application](./assets/images/Screenshot.pnj.png)
 
 
 ## Status
